@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: sensor-data-iot-server
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+  data:
+    mongodb: 
+      database: iot_agriculture
+      uri: mongodb://root:4whLo5aoOWm8xRx@localhost:27017/iot_agriculture?authSource=admin
+
+server:
+  port: 8095

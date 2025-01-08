@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sensor-data-iot-simulator
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
