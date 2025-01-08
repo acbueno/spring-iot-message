@@ -27,7 +27,7 @@ This project demonstrates a Spring Boot application designed to handle IoT senso
    
 2. **Navigate to the project directory:**
    ```bash
-  cd spring-iot-message
+    cd spring-iot-message
   
 3. **Build the project using Maven:**
    ```bash
@@ -40,6 +40,7 @@ Running the Applications
 ```bash
   mvn spring-boot:run
  ```
+
 ## Acknowledgments
   - **Spring Boot**
   - **RabbitMQ**
